@@ -26,11 +26,18 @@
 
 ---
 
-### 💻 Software Developer | Full Stack Developer | AI Enthusiast
+<div align="center">
 
-🎓 **Computer Science Engineering**
+<h2>💻 Software Developer | Full Stack Developer | AI Enthusiast</h2>
 
-💡 Passionate about building software, solving real-world problems, and continuously learning modern technologies.
+<h3>🎓 B.Tech Computer Science & Engineering</h3>
+
+<p>
+💡 Passionate about building scalable software, solving real-world problems,
+and continuously learning modern technologies.
+</p>
+
+</div>
 
 ---
 
