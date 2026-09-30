@@ -83,4 +83,4 @@ My goal is to become a **Software Development Engineer (SDE)** and contribute to
 - 📊 Data Analytics
 - 🗄️ Database Management
 - 🚀 Open Source
-- 🧩 Problem Solving
+- 🧩 Problem Solving.
