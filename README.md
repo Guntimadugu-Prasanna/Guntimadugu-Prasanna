@@ -100,78 +100,94 @@
 
 <div align="center">
 
-<h2>🌌 MY WORLD. MY CODE. MY JOURNEY.</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00BFFF,100:00F7FF&height=4" width="100%" alt="Neon divider"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7B61FF&center=true&vCenter=true&width=700&lines=Curiosity+is+my+starting+point.;Code+is+my+creative+space.;Innovation+is+my+direction.;Growth+is+my+constant." alt="Personal Philosophy"/>
+<br/>
+
+<h1>🌌 MY WORLD. MY CODE. MY JOURNEY.</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Curiosity+is+my+starting+point.;Code+is+my+creative+space.;Innovation+is+my+direction.;Growth+is+my+constant." alt="Personal Philosophy"/>
 
 <br/>
 
 <table>
 <tr>
-<td align="center" width="700">
+<td align="center" width="750">
 
-<h3>🚀 THE VISION</h3>
+<img src="https://img.shields.io/badge/MY_VISION-7B61FF?style=for-the-badge&labelColor=0D1117" alt="My Vision"/>
+
+<h2>🚀 THE VISION</h2>
 
 <p>
-I aspire to become a <b>Software Development Engineer</b> who doesn't
-just follow technology, but uses it to create meaningful experiences,
-solve challenging problems, and turn ambitious ideas into reality.
+I aspire to become a <b>Software Development Engineer</b> who doesn't just follow technology, but uses it to create meaningful experiences, solve challenging problems, and turn ambitious ideas into reality.
 </p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/THINK-0D1117?style=flat-square&labelColor=7B61FF" alt="Think"/>
+<img src="https://img.shields.io/badge/CREATE-0D1117?style=flat-square&labelColor=0077B6" alt="Create"/>
+<img src="https://img.shields.io/badge/EVOLVE-0D1117?style=flat-square&labelColor=00A6A6" alt="Evolve"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,100:00F7FF&height=2" width="85%" alt="Section divider"/>
+
 </div>
 
----
+<!-- ==================== DEVELOPER DNA ====================== -->
 
 <div align="center">
 
 <h2>🧬 MY DEVELOPER DNA</h2>
 
+<p><i>The mindset behind every idea, every line of code, and every new challenge.</i></p>
+
 <table>
 <tr>
-<td align="center" width="160">
+<td align="center" width="170">
 
-<h3>💡</h3>
+<img src="https://img.shields.io/badge/01-7B61FF?style=for-the-badge&labelColor=0D1117" alt="Trait 1"/>
 
-<b>CURIOSITY</b>
+<h2>💡</h2>
 
-<br/>
+<h3>CURIOSITY</h3>
 
 <sub>Ask better questions</sub>
 
 </td>
-<td align="center" width="160">
+<td align="center" width="170">
 
-<h3>🧠</h3>
+<img src="https://img.shields.io/badge/02-0077B6?style=for-the-badge&labelColor=0D1117" alt="Trait 2"/>
 
-<b>LOGIC</b>
+<h2>🧠</h2>
 
-<br/>
+<h3>LOGIC</h3>
 
 <sub>Think through problems</sub>
 
 </td>
-<td align="center" width="160">
+<td align="center" width="170">
 
-<h3>⚡</h3>
+<img src="https://img.shields.io/badge/03-E84393?style=for-the-badge&labelColor=0D1117" alt="Trait 3"/>
 
-<b>CREATIVITY</b>
+<h2>⚡</h2>
 
-<br/>
+<h3>CREATIVITY</h3>
 
 <sub>Imagine new solutions</sub>
 
 </td>
-<td align="center" width="160">
+<td align="center" width="170">
 
-<h3>🌱</h3>
+<img src="https://img.shields.io/badge/04-00A67D?style=for-the-badge&labelColor=0D1117" alt="Trait 4"/>
 
-<b>GROWTH</b>
+<h2>🌱</h2>
 
-<br/>
+<h3>GROWTH</h3>
 
 <sub>Improve every day</sub>
 
@@ -179,13 +195,19 @@ solve challenging problems, and turn ambitious ideas into reality.
 </tr>
 </table>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B61FF&height=2" width="85%" alt="Section divider"/>
+
 </div>
 
----
+<!-- ===================== LET'S CONNECT ===================== -->
 
 <div align="center">
 
 <h2>🛸 TRANSMISSION: LET'S CONNECT</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=650&lines=Great+ideas+begin+with+a+connection.;Collaboration+turns+ideas+into+reality." alt="Connection message"/>
 
 <p>
 Every great project begins with an idea.<br/>
@@ -195,20 +217,31 @@ Every great idea gets better when people collaborate.
 <br/>
 
 <a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
-<img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_WITH_ME-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Guntimadugu-Prasanna?tab=repositories">
-<img src="https://img.shields.io/badge/DISCOVER-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,30:0077B6,65:00F7FF,100:0D1117&height=150&section=footer&text=THINK.%20CREATE.%20EVOLVE.&fontSize=25&fontColor=FFFFFF&fontAlignY=60" width="100%" alt="Colorful Universe Footer"/>
+<img src="https://img.shields.io/badge/OPEN_TO-LEARNING_&_COLLABORATION-7B61FF?style=for-the-badge&labelColor=0D1117" alt="Open to learning and collaboration"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,30:0077B6,65:00BFFF,100:00F7FF&height=170&section=footer&text=THINK.%20CREATE.%20EVOLVE.&fontSize=27&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" alt="Neon Gradient Footer"/>
 
 <h3>🌠 Still learning. Still building. Just getting started.</h3>
 
+<p>
 <sub>Thanks for being part of my journey.</sub>
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-0D1117?style=flat-square&labelColor=7B61FF" alt="Built with Curiosity"/>
+<img src="https://img.shields.io/badge/POWERED_BY-CREATIVITY-0D1117?style=flat-square&labelColor=0077B6" alt="Powered by Creativity"/>
 
 </div>
 
