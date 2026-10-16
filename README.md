@@ -46,29 +46,6 @@
 
 </div>
 
----
-
-<!-- ================= ABOUT ME ============================== -->
-
-<div align="center">
-
-<h2>👩‍💻 ABOUT ME</h2>
-
-</div>
-
-I'm a Computer Science Engineering student at **KL University**, passionate about software development, artificial intelligence, and solving real-world problems through technology.
-
-I enjoy exploring new technologies, developing applications, analyzing data, and continuously improving my programming and problem-solving skills.
-
-- 💻 Exploring software and full stack development.
-- ☕ Developing my programming skills in Java and Python.
-- 🤖 Learning Artificial Intelligence and Machine Learning.
-- 📊 Exploring Data Analytics and Power BI.
-- 🗄️ Improving my SQL and database management skills.
-- 🧩 Practicing Data Structures and Algorithms.
-- 🌱 Always learning, experimenting, and building new things.
-
----
 
 <!-- ================= TECHNOLOGY UNIVERSE ================== -->
 
