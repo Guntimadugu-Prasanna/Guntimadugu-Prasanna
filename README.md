@@ -98,120 +98,93 @@
 
 ---
 
+---
+
 <div align="center">
 
-## 🔷 MY DEVELOPER UNIVERSE
+## ⚡ THE MINDSET BEHIND MY CODE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Think+Big.+Build+Smart.;Learn+Every+Day.;Turn+Ideas+Into+Reality." alt="Developer Universe" />
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 💠 MY VISION
-
-I aspire to become a **Software Development Engineer** who uses technology to solve challenging problems, build useful applications, and turn creative ideas into meaningful solutions.
+<sub>Four values that shape the way I learn, think, and build.</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/THINK-0D1117?style=for-the-badge&logo=brain&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/CREATE-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/EVOLVE-0D1117?style=for-the-badge&logo=rocket&logoColor=00F7FF" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🔹 MY DEVELOPER DNA
-
-*The mindset behind every line of code.*
-
-</div>
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="160" bgcolor="#0D1B2A">
 
-### 💡
+<br/>
 
-**CURIOSITY**
-
-<sub>Ask questions</sub>
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️
-
-**LOGIC**
-
-<sub>Think clearly</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 🚀
-
-**CREATIVITY**
-
-<sub>Explore ideas</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 📈
-
-**GROWTH**
-
-<sub>Keep improving</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🔷 LET'S CONNECT
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Great+ideas+begin+with+connections.;Let's+learn%2C+build%2C+and+grow+together." alt="Let's Connect" />
-
-<table>
-<tr>
-<td align="center">
-
-**Open to learning, sharing knowledge, and collaborating on meaningful projects.**
+<img src="https://img.shields.io/badge/01-CURIOSITY-00F7FF?style=for-the-badge&labelColor=0D1B2A" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
-</a>
+💡
 
-<a href="https://github.com/Guntimadugu-Prasanna">
-<img src="https://img.shields.io/badge/GitHub-Explore_Projects-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
-</a>
+**<span style="color:#00F7FF">ASK WHY</span>**
+
+<sub>Stay curious.<br/>Keep exploring.</sub>
+
+<br/>
+
+</td>
+<td align="center" width="160" bgcolor="#10243A">
+
+<br/>
+
+<img src="https://img.shields.io/badge/02-LOGIC-38BDF8?style=for-the-badge&labelColor=10243A" />
+
+<br/><br/>
+
+⚙️
+
+**<span style="color:#38BDF8">THINK CLEARLY</span>**
+
+<sub>Break problems<br/>into solutions.</sub>
+
+<br/>
+
+</td>
+<td align="center" width="160" bgcolor="#102B3F">
+
+<br/>
+
+<img src="https://img.shields.io/badge/03-CREATIVITY-00D4FF?style=for-the-badge&labelColor=102B3F" />
+
+<br/><br/>
+
+🚀
+
+**<span style="color:#00D4FF">BUILD IDEAS</span>**
+
+<sub>Think differently.<br/>Create something new.</sub>
+
+<br/>
+
+</td>
+<td align="center" width="160" bgcolor="#132D46">
+
+<br/>
+
+<img src="https://img.shields.io/badge/04-GROWTH-60A5FA?style=for-the-badge&labelColor=132D46" />
+
+<br/><br/>
+
+📈
+
+**<span style="color:#60A5FA">KEEP GROWING</span>**
+
+<sub>Learn daily.<br/>Improve continuously.</sub>
+
+<br/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=00BFFF" />
-
 <br/>
 
-**Still learning. Still building. Just getting started.**
-
-<sub>Thanks for visiting my profile! ⭐</sub>
+<img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20THINK%20%7C%20BUILD-0D1117?style=for-the-badge&labelColor=007BFF&color=0D1117" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007BFF,100:00F7FF&height=100&section=footer" />
-
+---
