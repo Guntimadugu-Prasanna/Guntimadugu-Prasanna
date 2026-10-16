@@ -101,48 +101,91 @@
 
 ---
 
-<!-- ================= CAREER GOAL ========================== -->
+<!-- ================ PREMIUM CAREER GOAL ====================== -->
 
 <div align="center">
 
 <h2>🎯 CAREER GOAL</h2>
 
+<img src="https://img.shields.io/badge/MY_VISION-00F7FF?style=for-the-badge&labelColor=0D1117" alt="My Vision"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+<h3>🚀 Building My Future in Technology</h3>
+
 <p>
-To become a skilled <b>Software Development Engineer (SDE)</b>, build reliable and scalable applications, and use technology to solve meaningful real-world problems.
+My goal is to become a skilled <b>Software Development Engineer (SDE)</b>,
+building reliable, scalable, and user-focused applications while using
+technology to solve meaningful real-world challenges.
 </p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/THINK-0D1117?style=for-the-badge&logoColor=white" alt="Think"/>
+<img src="https://img.shields.io/badge/BUILD-0077B6?style=for-the-badge&logoColor=white" alt="Build"/>
+<img src="https://img.shields.io/badge/INNOVATE-7B61FF?style=for-the-badge&logoColor=white" alt="Innovate"/>
+<img src="https://img.shields.io/badge/ACHIEVE-00A67D?style=for-the-badge&logoColor=white" alt="Achieve"/>
 
 </div>
 
 ---
 
-<!-- ================= CONNECT ============================== -->
+<!-- ================= PREMIUM CONNECT ======================= -->
 
 <div align="center">
 
 <h2>🤝 LET'S CONNECT</h2>
 
+<img src="https://img.shields.io/badge/OPEN_TO-LEARNING_&_COLLABORATION-7B61FF?style=for-the-badge&labelColor=0D1117" alt="Learning and Collaboration"/>
+
+<br/><br/>
+
 <p>
-I'm always happy to learn, collaborate on projects, and connect with people who share an interest in technology.
+I'm always excited to learn new technologies, collaborate on meaningful projects,
+exchange ideas, and connect with people who are passionate about technology.
 </p>
 
+<br/>
+
 <a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/Guntimadugu-Prasanna">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
 <br/><br/>
 
-<h3>💡 LEARN • BUILD • INNOVATE • GROW 🚀</h3>
+<p><i>Every connection is an opportunity to learn something new.</i></p>
 
 </div>
 
 ---
 
-<!-- ================= FOOTER =============================== -->
+<!-- ================= PREMIUM FOOTER ======================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111111,100:7B61FF&height=110&section=footer" width="100%" alt="Profile Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,35:0077B6,70:7B61FF,100:0D1117&height=160&section=footer&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20INNOVATE%20%E2%80%A2%20GROW&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%" alt="Premium Gradient Footer"/>
 
-<code>BUILD WITH PURPOSE • KEEP LEARNING • NEVER STOP GROWING</code>
+<br/>
+
+<img src="https://img.shields.io/badge/MADE_WITH-CURIOSITY-0D1117?style=flat-square&labelColor=0077B6" alt="Made with Curiosity"/>
+<img src="https://img.shields.io/badge/DRIVEN_BY-INNOVATION-0D1117?style=flat-square&labelColor=7B61FF" alt="Driven by Innovation"/>
+
+<br/><br/>
+
+<sub>✨ Thanks for visiting my profile. Let's build something meaningful! ✨</sub>
 
 </div>
+
+<!-- ========================================================= -->
