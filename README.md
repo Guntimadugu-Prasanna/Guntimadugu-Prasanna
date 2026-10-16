@@ -96,17 +96,17 @@
 
 ---
 
-<!-- =============== THE DEVELOPER'S UNIVERSE ================== -->
+<!-- =============== DEVELOPER'S UNIVERSE ====================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00BFFF,100:00F7FF&height=4" width="100%" alt="Neon divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0077B6&height=3" width="100%" alt="Cyan divider"/>
 
 <br/>
 
-<h1>🌌 MY WORLD. MY CODE. MY JOURNEY.</h1>
+<h2>🌌 MY WORLD. MY CODE. MY JOURNEY.</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Curiosity+is+my+starting+point.;Code+is+my+creative+space.;Innovation+is+my+direction.;Growth+is+my+constant." alt="Personal Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Curiosity+is+my+starting+point.;Code+is+my+creative+space.;Innovation+is+my+direction.;Growth+is+my+constant." alt="Personal Philosophy"/>
 
 <br/>
 
@@ -114,7 +114,7 @@
 <tr>
 <td align="center" width="750">
 
-<img src="https://img.shields.io/badge/MY_VISION-7B61FF?style=for-the-badge&labelColor=0D1117" alt="My Vision"/>
+<img src="https://img.shields.io/badge/MY_VISION-00F7FF?style=for-the-badge&labelColor=0D1117" alt="My Vision"/>
 
 <h2>🚀 THE VISION</h2>
 
@@ -124,8 +124,8 @@ I aspire to become a <b>Software Development Engineer</b> who doesn't just follo
 
 <br/>
 
-<img src="https://img.shields.io/badge/THINK-0D1117?style=flat-square&labelColor=7B61FF" alt="Think"/>
-<img src="https://img.shields.io/badge/CREATE-0D1117?style=flat-square&labelColor=0077B6" alt="Create"/>
+<img src="https://img.shields.io/badge/THINK-0D1117?style=flat-square&labelColor=0077B6" alt="Think"/>
+<img src="https://img.shields.io/badge/CREATE-0D1117?style=flat-square&labelColor=008C95" alt="Create"/>
 <img src="https://img.shields.io/badge/EVOLVE-0D1117?style=flat-square&labelColor=00A6A6" alt="Evolve"/>
 
 </td>
@@ -134,7 +134,7 @@ I aspire to become a <b>Software Development Engineer</b> who doesn't just follo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,100:00F7FF&height=2" width="85%" alt="Section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0077B6&height=2" width="85%" alt="Cyan divider"/>
 
 </div>
 
@@ -150,7 +150,7 @@ I aspire to become a <b>Software Development Engineer</b> who doesn't just follo
 <tr>
 <td align="center" width="170">
 
-<img src="https://img.shields.io/badge/01-7B61FF?style=for-the-badge&labelColor=0D1117" alt="Trait 1"/>
+<img src="https://img.shields.io/badge/01-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Trait 1"/>
 
 <h2>💡</h2>
 
@@ -161,7 +161,7 @@ I aspire to become a <b>Software Development Engineer</b> who doesn't just follo
 </td>
 <td align="center" width="170">
 
-<img src="https://img.shields.io/badge/02-0077B6?style=for-the-badge&labelColor=0D1117" alt="Trait 2"/>
+<img src="https://img.shields.io/badge/02-00BFFF?style=for-the-badge&labelColor=0D1117" alt="Trait 2"/>
 
 <h2>🧠</h2>
 
@@ -172,7 +172,7 @@ I aspire to become a <b>Software Development Engineer</b> who doesn't just follo
 </td>
 <td align="center" width="170">
 
-<img src="https://img.shields.io/badge/03-E84393?style=for-the-badge&labelColor=0D1117" alt="Trait 3"/>
+<img src="https://img.shields.io/badge/03-008CBA?style=for-the-badge&labelColor=0D1117" alt="Trait 3"/>
 
 <h2>⚡</h2>
 
@@ -183,7 +183,7 @@ I aspire to become a <b>Software Development Engineer</b> who doesn't just follo
 </td>
 <td align="center" width="170">
 
-<img src="https://img.shields.io/badge/04-00A67D?style=for-the-badge&labelColor=0D1117" alt="Trait 4"/>
+<img src="https://img.shields.io/badge/04-00A6A6?style=for-the-badge&labelColor=0D1117" alt="Trait 4"/>
 
 <h2>🌱</h2>
 
@@ -197,7 +197,7 @@ I aspire to become a <b>Software Development Engineer</b> who doesn't just follo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B61FF&height=2" width="85%" alt="Section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0077B6&height=2" width="85%" alt="Cyan divider"/>
 
 </div>
 
@@ -205,9 +205,9 @@ I aspire to become a <b>Software Development Engineer</b> who doesn't just follo
 
 <div align="center">
 
-<h2>🛸 TRANSMISSION: LET'S CONNECT</h2>
+<h2>🌐 LET'S CONNECT</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=650&lines=Great+ideas+begin+with+a+connection.;Collaboration+turns+ideas+into+reality." alt="Connection message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Great+ideas+begin+with+a+connection.;Collaboration+turns+ideas+into+reality." alt="Connection Message"/>
 
 <p>
 Every great project begins with an idea.<br/>
@@ -221,28 +221,26 @@ Every great idea gets better when people collaborate.
 </a>
 &nbsp;
 <a href="https://github.com/Guntimadugu-Prasanna?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE-My_Projects-00A6A6?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OPEN_TO-LEARNING_&_COLLABORATION-7B61FF?style=for-the-badge&labelColor=0D1117" alt="Open to learning and collaboration"/>
+<img src="https://img.shields.io/badge/OPEN_TO-LEARNING_&_COLLABORATION-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Open to Learning and Collaboration"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,30:0077B6,65:00BFFF,100:00F7FF&height=170&section=footer&text=THINK.%20CREATE.%20EVOLVE.&fontSize=27&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" alt="Neon Gradient Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077B6,100:0D1117&height=150&section=footer&text=THINK.%20CREATE.%20EVOLVE.&fontSize=26&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" alt="Cyan and Blue Footer"/>
 
 <h3>🌠 Still learning. Still building. Just getting started.</h3>
 
-<p>
-<sub>Thanks for being part of my journey.</sub>
-</p>
+<p><sub>Thanks for being part of my journey.</sub></p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-0D1117?style=flat-square&labelColor=7B61FF" alt="Built with Curiosity"/>
-<img src="https://img.shields.io/badge/POWERED_BY-CREATIVITY-0D1117?style=flat-square&labelColor=0077B6" alt="Powered by Creativity"/>
+<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-0D1117?style=flat-square&labelColor=0077B6" alt="Built with Curiosity"/>
+<img src="https://img.shields.io/badge/POWERED_BY-CREATIVITY-0D1117?style=flat-square&labelColor=00A6A6" alt="Powered by Creativity"/>
 
 </div>
 
-<!-- ========================================================= -->
+<!-- ===================== END OF README ===================== -->
