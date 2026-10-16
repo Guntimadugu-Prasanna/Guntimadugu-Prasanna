@@ -103,6 +103,12 @@
 
 <p><strong><sub>BUILD • LEARN • SHIP • REPEAT</sub></strong></p>
 
+<p>
+<strong><sub>Thanks for visiting my profile! ⭐</sub></strong>
+</p>
+
+</div>
+
 </div>
 
 <!-- ================= END ================= -->
