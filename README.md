@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Java+%7C+Python+Developer;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Data+Analytics+%7C+Problem+Solving;Turning+Ideas+Into+Solutions" alt="Typing Animation"/>
 </a>
 
-<h3>GUNTIMADUGU REDDYPRASANNA</h3>
+<h2>GUNTIMADUGU REDDYPRASANNA</h2>
 
 <p>
 <code>Software Developer</code> •
