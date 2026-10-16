@@ -95,23 +95,17 @@
 </div>
 
 ---
-<!-- ================= MINIMAL ANIMATED FOOTER ================= -->
+---
+
+<!-- ================= PARTICLE ANIMATED FOOTER ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=55&lines=Keep+learning.+Keep+creating.;Every+line+of+code+is+progress.;The+next+chapter+starts+now." alt="Animated Message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&height=45&lines=Keep+exploring.;Keep+creating.;Keep+moving+forward." alt="Animated Footer Text" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/✦-BUILD%20YOUR%20FUTURE-0D1117?style=for-the-badge&labelColor=007BFF&color=0D1117" alt="Build Your Future"/>
-
-<br/><br/>
-
-<sub>Thanks for exploring my profile.</sub>
-
-<br/>
-
-⭐ &nbsp; <b>Guntimadugu Reddyprasanna</b> &nbsp; ⭐
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&text=%E2%9C%A6%20%E2%80%A2%20%E2%9C%A7%20%E2%80%A2%20%E2%9C%A6&fontColor=00F7FF&fontSize=35&animation=twinkling" alt="Floating Particle Style Footer" />
 
 </div>
 
