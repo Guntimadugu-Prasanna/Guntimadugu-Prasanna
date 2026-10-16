@@ -95,15 +95,15 @@
 </div>
 
 ---
-<!-- ================= ANIMATED FOOTER ================= -->
+<!-- ================= FINAL ANIMATED FOOTER ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=45&lines=BUILD+%E2%80%A2+INNOVATE+%E2%80%A2+GROW+%E2%80%A2+REPEAT;KEEP+LEARNING.+KEEP+BUILDING.;TURN+IDEAS+INTO+REALITY." alt="Animated Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=twinkling" alt="Blue Cyan Animated Footer"/>
 
-<br/><br/>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=twinkling" alt="Animated Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=40&lines=BUILD+%E2%80%A2+INNOVATE+%E2%80%A2+GROW+%E2%80%A2+REPEAT;KEEP+LEARNING+%E2%80%A2+KEEP+BUILDING" alt="Animated Footer Text"/>
 
 </div>
 
