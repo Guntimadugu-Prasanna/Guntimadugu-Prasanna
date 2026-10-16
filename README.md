@@ -95,13 +95,15 @@
 </div>
 
 ---
-<!-- ================= FINAL ANIMATED FOOTER ================= -->
+<!-- ================= FINAL FOOTER ================= -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=twinkling" alt="Blue Cyan Footer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=650&height=35&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+SHIP+%E2%80%A2+REPEAT" alt="Animated Footer Text"/>
+<p style="color:#000000; font-family:monospace;">
+BUILD &bull; LEARN &bull; SHIP &bull; REPEAT
+</p>
 
 </div>
 
