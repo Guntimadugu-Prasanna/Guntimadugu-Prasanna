@@ -99,11 +99,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=twinkling" alt="Blue Cyan Animated Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=twinkling" alt="Cyan Blue Footer"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=40&lines=BUILD+%E2%80%A2+INNOVATE+%E2%80%A2+GROW+%E2%80%A2+REPEAT;KEEP+LEARNING+%E2%80%A2+KEEP+BUILDING" alt="Animated Footer Text"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=30&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+SHIP+%E2%80%A2+REPEAT" alt="Animated Footer Text"/>
 
 </div>
 
