@@ -101,9 +101,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=twinkling" alt="Blue Cyan Footer"/>
 
-<p style="color:#000000; font-family:monospace;">
-BUILD &bull; LEARN &bull; SHIP &bull; REPEAT
-</p>
+<p><strong><sub>BUILD • LEARN • SHIP • REPEAT</sub></strong></p>
 
 </div>
 
