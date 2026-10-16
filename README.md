@@ -98,96 +98,30 @@
 
 ---
 
-<!-- ================= DEVELOPER MINDSET ==================== -->
+<!-- ================= INSPIRATIONAL QUOTE ================= -->
 
 <div align="center">
 
-<h2>⚡ DEVELOPER MINDSET</h2>
-
-<p><i>The principles that drive my growth as a developer.</i></p>
+<h2>✨ A LITTLE INSPIRATION</h2>
 
 <br/>
 
-<table align="center" width="90%" bgcolor="#0D1117">
-<tr>
-<td align="center" width="25%" bgcolor="#0D1B2A">
-
-<br/>
-
-<img src="https://img.shields.io/badge/01-CURIOSITY-00F7FF?style=for-the-badge&labelColor=0D1B2A" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=%22Great+things+are+built+one+step+at+a+time.%22;%22Stay+curious.+Keep+learning.+Never+stop+building.%22;%22Dream+big.+Code+smart.+Make+an+impact.%22" alt="Inspirational Quotes" />
 
 <br/><br/>
 
-<h1>💡</h1>
-
-<h3><font color="#00F7FF">ASK WHY</font></h3>
-
-<p><font color="#FFFFFF">Stay curious.<br/>Keep exploring.</font></p>
+<p><i>Every expert was once a beginner. Every great project started with an idea.</i></p>
 
 <br/>
-
-</td>
-
-<td align="center" width="25%" bgcolor="#10243A">
-
-<br/>
-
-<img src="https://img.shields.io/badge/02-LOGIC-38BDF8?style=for-the-badge&labelColor=10243A" />
-
-<br/><br/>
-
-<h1>⚙️</h1>
-
-<h3><font color="#38BDF8">THINK CLEARLY</font></h3>
-
-<p><font color="#FFFFFF">Analyze problems.<br/>Find solutions.</font></p>
-
-<br/>
-
-</td>
-
-<td align="center" width="25%" bgcolor="#102B3F">
-
-<br/>
-
-<img src="https://img.shields.io/badge/03-CREATIVITY-00D4FF?style=for-the-badge&labelColor=102B3F" />
-
-<br/><br/>
-
-<h1>🚀</h1>
-
-<h3><font color="#00D4FF">BUILD IDEAS</font></h3>
-
-<p><font color="#FFFFFF">Think differently.<br/>Create solutions.</font></p>
-
-<br/>
-
-</td>
-
-<td align="center" width="25%" bgcolor="#132D46">
-
-<br/>
-
-<img src="https://img.shields.io/badge/04-GROWTH-60A5FA?style=for-the-badge&labelColor=132D46" />
-
-<br/><br/>
-
-<h1>📈</h1>
-
-<h3><font color="#60A5FA">KEEP GROWING</font></h3>
-
-<p><font color="#FFFFFF">Learn every day.<br/>Improve continuously.</font></p>
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20THINK%20%7C%20BUILD-0D1117?style=for-the-badge&labelColor=007BFF&color=00F7FF" />
 
 </div>
 
----
+<!-- ================= ANIMATED FOOTER ====================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:007BFF,100:00F7FF&text=KEEP%20LEARNING%20%7C%20KEEP%20BUILDING&fontColor=FFFFFF&fontSize=25&fontAlignY=45&animation=twinkling" />
+
+<div align="center">
+
+<sub>Thanks for visiting my profile! ⭐</sub>
+
+</div>
