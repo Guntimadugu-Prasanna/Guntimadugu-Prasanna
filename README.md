@@ -96,15 +96,13 @@
 
 ---
 
-<!-- =============== NEON CAREER VISION ======================= -->
+<!-- =============== THE DEVELOPER'S UNIVERSE ================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=8&section=header" width="100%" alt="Section divider"/>
+<h2>🌌 MY WORLD. MY CODE. MY JOURNEY.</h2>
 
-<h2>🎯 &nbsp; MY NEXT MISSION</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Dream+Big.+Code+Smart.;Building+My+Future+in+Tech.;From+Learning+to+Creating.;One+Project+at+a+Time." alt="Mission animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7B61FF&center=true&vCenter=true&width=700&lines=Curiosity+is+my+starting+point.;Code+is+my+creative+space.;Innovation+is+my+direction.;Growth+is+my+constant." alt="Personal Philosophy"/>
 
 <br/>
 
@@ -112,58 +110,105 @@
 <tr>
 <td align="center" width="700">
 
-<img src="https://img.shields.io/badge/CAREER_TARGET-SOFTWARE_DEVELOPMENT_ENGINEER-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Career Target"/>
-
-<br/><br/>
+<h3>🚀 THE VISION</h3>
 
 <p>
-To become a skilled <b>Software Development Engineer</b> who builds
-innovative, scalable, and user-focused applications — turning creative
-ideas into meaningful real-world solutions.
+I aspire to become a <b>Software Development Engineer</b> who doesn't
+just follow technology, but uses it to create meaningful experiences,
+solve challenging problems, and turn ambitious ideas into reality.
 </p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/01-LEARN-0D1117?style=for-the-badge&labelColor=0077B6" alt="Learn"/>
-<img src="https://img.shields.io/badge/02-CREATE-0D1117?style=for-the-badge&labelColor=7B61FF" alt="Create"/>
-<img src="https://img.shields.io/badge/03-INNOVATE-0D1117?style=for-the-badge&labelColor=E84393" alt="Innovate"/>
-<img src="https://img.shields.io/badge/04-ACHIEVE-0D1117?style=for-the-badge&labelColor=00A67D" alt="Achieve"/>
 
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+<div align="center">
+
+<h2>🧬 MY DEVELOPER DNA</h2>
+
+<table>
+<tr>
+<td align="center" width="160">
+
+<h3>💡</h3>
+
+<b>CURIOSITY</b>
+
 <br/>
 
-<!-- ================= CONNECT WITH ME ====================== -->
+<sub>Ask better questions</sub>
 
-<h2>🌐 &nbsp; LET'S BUILD SOMETHING TOGETHER</h2>
+</td>
+<td align="center" width="160">
+
+<h3>🧠</h3>
+
+<b>LOGIC</b>
+
+<br/>
+
+<sub>Think through problems</sub>
+
+</td>
+<td align="center" width="160">
+
+<h3>⚡</h3>
+
+<b>CREATIVITY</b>
+
+<br/>
+
+<sub>Imagine new solutions</sub>
+
+</td>
+<td align="center" width="160">
+
+<h3>🌱</h3>
+
+<b>GROWTH</b>
+
+<br/>
+
+<sub>Improve every day</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>🛸 TRANSMISSION: LET'S CONNECT</h2>
 
 <p>
-<samp>Great ideas grow when curious minds connect.</samp>
+Every great project begins with an idea.<br/>
+Every great idea gets better when people collaborate.
 </p>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/Guntimadugu-Prasanna">
-<img src="https://img.shields.io/badge/GITHUB-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://leetcode.com/u/klu2300033100/">
-<img src="https://img.shields.io/badge/LEETCODE-Level_up-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<a href="https://github.com/Guntimadugu-Prasanna?tab=repositories">
+<img src="https://img.shields.io/badge/DISCOVER-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,30:0077B6,65:7B61FF,100:0D1117&height=150&section=footer&text=KEEP%20BUILDING.&fontSize=28&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" alt="Neon Gradient Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,30:0077B6,65:00F7FF,100:0D1117&height=150&section=footer&text=THINK.%20CREATE.%20EVOLVE.&fontSize=25&fontColor=FFFFFF&fontAlignY=60" width="100%" alt="Colorful Universe Footer"/>
 
-<h3>⚡ THINK DIFFERENTLY &nbsp; • &nbsp; CODE CREATIVELY &nbsp; • &nbsp; GROW CONSTANTLY ⚡</h3>
+<h3>🌠 Still learning. Still building. Just getting started.</h3>
 
-<sub>Thanks for stopping by — see you in the next commit! 💙</sub>
+<sub>Thanks for being part of my journey.</sub>
 
 </div>
 
