@@ -95,20 +95,21 @@
 </div>
 
 ---
-
-<!-- ================= GALAXY ANIMATED FOOTER ================= -->
+<!-- ================= CYAN & BLUE ANIMATED FOOTER ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=1000&color=E6B3FF&center=true&vCenter=true&width=700&height=60&lines=Exploring+the+unknown...;Creating+without+limits.;Every+line+has+a+story." alt="Animated Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=Building+the+future%2C+one+line+at+a+time.;Learn.+Code.+Innovate.;Turning+ideas+into+reality." alt="Animated Footer"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:12002F,30:4B0082,65:C71585,100:FFB6C1&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=12&color=0:0D1117,25:007BFF,50:00F7FF,75:007BFF,100:0D1117&animation=twinkling" />
 
-<br/>
+<br/><br/>
 
-<sub>✦ Thanks for visiting my corner of the universe ✦</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=fadeIn" alt="Animated Cyan Blue Footer"/>
+
+<sub>Thanks for visiting my GitHub profile! ⭐</sub>
 
 </div>
 
