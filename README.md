@@ -188,3 +188,36 @@
 </div>
 
 ---
+font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Great+ideas+begin+with+connections.;Let's+learn%2C+build%2C+and+grow+together." alt="Let's Connect" />
+
+<table>
+<tr>
+<td align="center">
+
+Open to learning, sharing knowledge, and collaborating on meaningful projects.
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+</a>
+
+<a href="https://github.com/Guntimadugu-Prasanna">
+<img src="https://img.shields.io/badge/GitHub-Explore_Projects-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=00BFFF" />
+
+<br/>
+
+Still learning. Still building. Just getting started.
+
+<sub>Thanks for visiting my profile! ⭐</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007BFF,100:00F7FF&height=100&section=footer" />
