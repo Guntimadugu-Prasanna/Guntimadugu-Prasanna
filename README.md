@@ -98,13 +98,13 @@
 
 ---
 
----
+<!-- ================= DEVELOPER MINDSET ==================== -->
 
 <div align="center">
 
-## ⚡ THE MINDSET BEHIND MY CODE
+<h2>⚡ THE MINDSET BEHIND MY CODE</h2>
 
-<sub>Four values that shape the way I learn, think, and build.</sub>
+<p><i>Four values that shape the way I learn, think, and build.</i></p>
 
 <br/>
 
@@ -120,13 +120,14 @@
 
 💡
 
-**<span style="color:#00F7FF">ASK WHY</span>**
+<h3>ASK WHY</h3>
 
 <sub>Stay curious.<br/>Keep exploring.</sub>
 
-<br/>
+<br/><br/>
 
 </td>
+
 <td align="center" width="160" bgcolor="#10243A">
 
 <br/>
@@ -137,13 +138,14 @@
 
 ⚙️
 
-**<span style="color:#38BDF8">THINK CLEARLY</span>**
+<h3>THINK CLEARLY</h3>
 
 <sub>Break problems<br/>into solutions.</sub>
 
-<br/>
+<br/><br/>
 
 </td>
+
 <td align="center" width="160" bgcolor="#102B3F">
 
 <br/>
@@ -154,13 +156,14 @@
 
 🚀
 
-**<span style="color:#00D4FF">BUILD IDEAS</span>**
+<h3>BUILD IDEAS</h3>
 
 <sub>Think differently.<br/>Create something new.</sub>
 
-<br/>
+<br/><br/>
 
 </td>
+
 <td align="center" width="160" bgcolor="#132D46">
 
 <br/>
@@ -171,11 +174,11 @@
 
 📈
 
-**<span style="color:#60A5FA">KEEP GROWING</span>**
+<h3>KEEP GROWING</h3>
 
 <sub>Learn daily.<br/>Improve continuously.</sub>
 
-<br/>
+<br/><br/>
 
 </td>
 </tr>
@@ -188,36 +191,58 @@
 </div>
 
 ---
-font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Great+ideas+begin+with+connections.;Let's+learn%2C+build%2C+and+grow+together." alt="Let's Connect" />
 
-<table>
+<!-- ================= LET'S CONNECT ======================== -->
+
+<div align="center">
+
+<h2>🤝 LET'S CONNECT</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Great+ideas+begin+with+connections.;Let's+learn%2C+build%2C+and+grow+together." alt="Let's Connect" />
+
+<br/><br/>
+
+<table align="center">
 <tr>
-<td align="center">
+<td align="center" bgcolor="#0D1B2A">
 
-Open to learning, sharing knowledge, and collaborating on meaningful projects.
+<br/>
+
+<b>BUILD. CONNECT. GROW.</b>
+
+<br/><br/>
+
+<sub>Open to learning, sharing knowledge, and collaborating on meaningful projects.</sub>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Guntimadugu-Prasanna">
-<img src="https://img.shields.io/badge/GitHub-Explore_Projects-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub Projects"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-0D1117?style=for-the-badge&labelColor=007BFF&color=00F7FF" />
+
+<br/><br/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=00BFFF" />
-
 <br/>
 
-Still learning. Still building. Just getting started.
+<b>Still learning. Still building. Just getting started.</b>
+
+<br/>
 
 <sub>Thanks for visiting my profile! ⭐</sub>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007BFF,100:00F7FF&height=100&section=footer" />
+
