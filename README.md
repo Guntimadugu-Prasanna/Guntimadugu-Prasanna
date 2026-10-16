@@ -96,28 +96,21 @@
 
 ---
 
----
-
-<!-- ================= ANIMATED TECH FOOTER ================= -->
+<!-- ================= GALAXY ANIMATED FOOTER ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=INITIALIZING+NEXT+CHAPTER...;IDEAS+INTO+CODE.;CODE+INTO+INNOVATION.;THE+JOURNEY+CONTINUES." alt="Animated Tech Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=1000&color=E6B3FF&center=true&vCenter=true&width=700&height=60&lines=Exploring+the+unknown...;Creating+without+limits.;Every+line+has+a+story." alt="Animated Footer" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:12002F,30:4B0082,65:C71585,100:FFB6C1&animation=twinkling" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00F7FF,50:007BFF,100:00F7FF" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117&color=00F7FF" />
-
-<br/><br/>
-
-<sub>Thanks for visiting my GitHub profile.</sub>
+<sub>✦ Thanks for visiting my corner of the universe ✦</sub>
 
 </div>
 
 <!-- ================= END ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,50:007BFF,100:00F7FF" />
