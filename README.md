@@ -95,19 +95,16 @@
 </div>
 
 ---
----
-
-<!-- ================= PARTICLE ANIMATED FOOTER ================= -->
+<!-- ================= ANIMATED FOOTER ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&height=45&lines=Keep+exploring.;Keep+creating.;Keep+moving+forward." alt="Animated Footer Text" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=twinkling" width="100%" alt="Cyan Blue Animated Footer"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&text=%E2%9C%A6%20%E2%80%A2%20%E2%9C%A7%20%E2%80%A2%20%E2%9C%A6&fontColor=00F7FF&fontSize=35&animation=twinkling" alt="Floating Particle Style Footer" />
+<img src="https://img.shields.io/badge/BUILD%20%E2%80%A2%20INNOVATE%20%E2%80%A2%20GROW%20%E2%80%A2%20REPEAT-0D1117?style=for-the-badge&labelColor=007BFF&color=0D1117" alt="Build Innovate Grow Repeat"/>
 
 </div>
 
 <!-- ================= END ================= -->
-
