@@ -96,151 +96,122 @@
 
 ---
 
-<!-- =============== DEVELOPER'S UNIVERSE ====================== -->
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0077B6&height=3" width="100%" alt="Cyan divider"/>
+## 🔷 MY DEVELOPER UNIVERSE
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Think+Big.+Build+Smart.;Learn+Every+Day.;Turn+Ideas+Into+Reality." alt="Developer Universe" />
 
-<h2>🌌 MY WORLD. MY CODE. MY JOURNEY.</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Curiosity+is+my+starting+point.;Code+is+my+creative+space.;Innovation+is+my+direction.;Growth+is+my+constant." alt="Personal Philosophy"/>
-
-<br/>
+</div>
 
 <table>
 <tr>
-<td align="center" width="750">
+<td align="center" width="100%">
 
-<img src="https://img.shields.io/badge/MY_VISION-00F7FF?style=for-the-badge&labelColor=0D1117" alt="My Vision"/>
+### 💠 MY VISION
 
-<h2>🚀 THE VISION</h2>
-
-<p>
-I aspire to become a <b>Software Development Engineer</b> who doesn't just follow technology, but uses it to create meaningful experiences, solve challenging problems, and turn ambitious ideas into reality.
-</p>
+I aspire to become a **Software Development Engineer** who uses technology to solve challenging problems, build useful applications, and turn creative ideas into meaningful solutions.
 
 <br/>
 
-<img src="https://img.shields.io/badge/THINK-0D1117?style=flat-square&labelColor=0077B6" alt="Think"/>
-<img src="https://img.shields.io/badge/CREATE-0D1117?style=flat-square&labelColor=008C95" alt="Create"/>
-<img src="https://img.shields.io/badge/EVOLVE-0D1117?style=flat-square&labelColor=00A6A6" alt="Evolve"/>
+<img src="https://img.shields.io/badge/THINK-0D1117?style=for-the-badge&logo=brain&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/CREATE-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/EVOLVE-0D1117?style=for-the-badge&logo=rocket&logoColor=00F7FF" />
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0077B6&height=2" width="85%" alt="Cyan divider"/>
-
-</div>
-
-<!-- ==================== DEVELOPER DNA ====================== -->
+---
 
 <div align="center">
 
-<h2>🧬 MY DEVELOPER DNA</h2>
+## 🔹 MY DEVELOPER DNA
 
-<p><i>The mindset behind every idea, every line of code, and every new challenge.</i></p>
+*The mindset behind every line of code.*
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="170">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/01-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Trait 1"/>
+### 💡
 
-<h2>💡</h2>
+**CURIOSITY**
 
-<h3>CURIOSITY</h3>
-
-<sub>Ask better questions</sub>
+<sub>Ask questions</sub>
 
 </td>
-<td align="center" width="170">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/02-00BFFF?style=for-the-badge&labelColor=0D1117" alt="Trait 2"/>
+### ⚙️
 
-<h2>🧠</h2>
+**LOGIC**
 
-<h3>LOGIC</h3>
-
-<sub>Think through problems</sub>
+<sub>Think clearly</sub>
 
 </td>
-<td align="center" width="170">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/03-008CBA?style=for-the-badge&labelColor=0D1117" alt="Trait 3"/>
+### 🚀
 
-<h2>⚡</h2>
+**CREATIVITY**
 
-<h3>CREATIVITY</h3>
-
-<sub>Imagine new solutions</sub>
+<sub>Explore ideas</sub>
 
 </td>
-<td align="center" width="170">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/04-00A6A6?style=for-the-badge&labelColor=0D1117" alt="Trait 4"/>
+### 📈
 
-<h2>🌱</h2>
+**GROWTH**
 
-<h3>GROWTH</h3>
-
-<sub>Improve every day</sub>
+<sub>Keep improving</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0077B6&height=2" width="85%" alt="Cyan divider"/>
-
-</div>
-
-<!-- ===================== LET'S CONNECT ===================== -->
+---
 
 <div align="center">
 
-<h2>🌐 LET'S CONNECT</h2>
+## 🔷 LET'S CONNECT
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Great+ideas+begin+with+a+connection.;Collaboration+turns+ideas+into+reality." alt="Connection Message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Great+ideas+begin+with+connections.;Let's+learn%2C+build%2C+and+grow+together." alt="Let's Connect" />
 
-<p>
-Every great project begins with an idea.<br/>
-Every great idea gets better when people collaborate.
-</p>
+<table>
+<tr>
+<td align="center">
 
-<br/>
+**Open to learning, sharing knowledge, and collaborating on meaningful projects.**
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
-<img src="https://img.shields.io/badge/CONNECT_WITH_ME-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/Guntimadugu-Prasanna?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-My_Projects-00A6A6?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
 </a>
 
-<br/><br/>
+<a href="https://github.com/Guntimadugu-Prasanna">
+<img src="https://img.shields.io/badge/GitHub-Explore_Projects-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+</a>
 
-<img src="https://img.shields.io/badge/OPEN_TO-LEARNING_&_COLLABORATION-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Open to Learning and Collaboration"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077B6,100:0D1117&height=150&section=footer&text=THINK.%20CREATE.%20EVOLVE.&fontSize=26&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" alt="Cyan and Blue Footer"/>
-
-<h3>🌠 Still learning. Still building. Just getting started.</h3>
-
-<p><sub>Thanks for being part of my journey.</sub></p>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=00BFFF" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-0D1117?style=flat-square&labelColor=0077B6" alt="Built with Curiosity"/>
-<img src="https://img.shields.io/badge/POWERED_BY-CREATIVITY-0D1117?style=flat-square&labelColor=00A6A6" alt="Powered by Creativity"/>
+**Still learning. Still building. Just getting started.**
+
+<sub>Thanks for visiting my profile! ⭐</sub>
 
 </div>
 
-<!-- ===================== END OF README ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007BFF,100:00F7FF&height=100&section=footer" />
+
