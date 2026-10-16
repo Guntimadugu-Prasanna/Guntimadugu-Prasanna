@@ -98,30 +98,26 @@
 
 ---
 
-<!-- ================= INSPIRATIONAL QUOTE ================= -->
+<!-- ================= ANIMATED TECH FOOTER ================= -->
 
 <div align="center">
 
-<h2>✨ A LITTLE INSPIRATION</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=INITIALIZING+NEXT+CHAPTER...;IDEAS+INTO+CODE.;CODE+INTO+INNOVATION.;THE+JOURNEY+CONTINUES." alt="Animated Tech Footer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=%22Great+things+are+built+one+step+at+a+time.%22;%22Stay+curious.+Keep+learning.+Never+stop+building.%22;%22Dream+big.+Code+smart.+Make+an+impact.%22" alt="Inspirational Quotes" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00F7FF,50:007BFF,100:00F7FF" />
 
 <br/><br/>
 
-<p><i>Every expert was once a beginner. Every great project started with an idea.</i></p>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117&color=00F7FF" />
 
-<br/>
+<br/><br/>
 
-</div>
-
-<!-- ================= ANIMATED FOOTER ====================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:007BFF,100:00F7FF&text=KEEP%20LEARNING%20%7C%20KEEP%20BUILDING&fontColor=FFFFFF&fontSize=25&fontAlignY=45&animation=twinkling" />
-
-<div align="center">
-
-<sub>Thanks for visiting my profile! ⭐</sub>
+<sub>Thanks for visiting my GitHub profile.</sub>
 
 </div>
+
+<!-- ================= END ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,50:007BFF,100:00F7FF" />
