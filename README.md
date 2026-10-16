@@ -95,21 +95,23 @@
 </div>
 
 ---
-<!-- ================= CYAN & BLUE ANIMATED FOOTER ================= -->
+<!-- ================= MINIMAL ANIMATED FOOTER ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=Building+the+future%2C+one+line+at+a+time.;Learn.+Code.+Innovate.;Turning+ideas+into+reality." alt="Animated Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=55&lines=Keep+learning.+Keep+creating.;Every+line+of+code+is+progress.;The+next+chapter+starts+now." alt="Animated Message"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=12&color=0:0D1117,25:007BFF,50:00F7FF,75:007BFF,100:0D1117&animation=twinkling" />
+<img src="https://img.shields.io/badge/✦-BUILD%20YOUR%20FUTURE-0D1117?style=for-the-badge&labelColor=007BFF&color=0D1117" alt="Build Your Future"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D1117,50:007BFF,100:00F7FF&animation=fadeIn" alt="Animated Cyan Blue Footer"/>
+<sub>Thanks for exploring my profile.</sub>
 
-<sub>Thanks for visiting my GitHub profile! ⭐</sub>
+<br/>
+
+⭐ &nbsp; <b>Guntimadugu Reddyprasanna</b> &nbsp; ⭐
 
 </div>
 
