@@ -101,27 +101,38 @@
 
 ---
 
-<!-- ================ PREMIUM CAREER GOAL ====================== -->
+<!-- =============== NEON CAREER VISION ======================= -->
 
 <div align="center">
 
-<h2>🎯 CAREER GOAL</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=8&section=header" width="100%" alt="Section divider"/>
 
-<img src="https://img.shields.io/badge/MY_VISION-00F7FF?style=for-the-badge&labelColor=0D1117" alt="My Vision"/>
+<h2>🎯 &nbsp; MY NEXT MISSION</h2>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Dream+Big.+Code+Smart.;Building+My+Future+in+Tech.;From+Learning+to+Creating.;One+Project+at+a+Time." alt="Mission animation"/>
+
+<br/>
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="700">
 
-<h3>🚀 Building My Future in Technology</h3>
+<img src="https://img.shields.io/badge/CAREER_TARGET-SOFTWARE_DEVELOPMENT_ENGINEER-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Career Target"/>
+
+<br/><br/>
 
 <p>
-My goal is to become a skilled <b>Software Development Engineer (SDE)</b>,
-building reliable, scalable, and user-focused applications while using
-technology to solve meaningful real-world challenges.
+To become a skilled <b>Software Development Engineer</b> who builds
+innovative, scalable, and user-focused applications — turning creative
+ideas into meaningful real-world solutions.
 </p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/01-LEARN-0D1117?style=for-the-badge&labelColor=0077B6" alt="Learn"/>
+<img src="https://img.shields.io/badge/02-CREATE-0D1117?style=for-the-badge&labelColor=7B61FF" alt="Create"/>
+<img src="https://img.shields.io/badge/03-INNOVATE-0D1117?style=for-the-badge&labelColor=E84393" alt="Innovate"/>
+<img src="https://img.shields.io/badge/04-ACHIEVE-0D1117?style=for-the-badge&labelColor=00A67D" alt="Achieve"/>
 
 </td>
 </tr>
@@ -129,62 +140,35 @@ technology to solve meaningful real-world challenges.
 
 <br/>
 
-<img src="https://img.shields.io/badge/THINK-0D1117?style=for-the-badge&logoColor=white" alt="Think"/>
-<img src="https://img.shields.io/badge/BUILD-0077B6?style=for-the-badge&logoColor=white" alt="Build"/>
-<img src="https://img.shields.io/badge/INNOVATE-7B61FF?style=for-the-badge&logoColor=white" alt="Innovate"/>
-<img src="https://img.shields.io/badge/ACHIEVE-00A67D?style=for-the-badge&logoColor=white" alt="Achieve"/>
+<!-- ================= CONNECT WITH ME ====================== -->
 
-</div>
-
----
-
-<!-- ================= PREMIUM CONNECT ======================= -->
-
-<div align="center">
-
-<h2>🤝 LET'S CONNECT</h2>
-
-<img src="https://img.shields.io/badge/OPEN_TO-LEARNING_&_COLLABORATION-7B61FF?style=for-the-badge&labelColor=0D1117" alt="Learning and Collaboration"/>
-
-<br/><br/>
+<h2>🌐 &nbsp; LET'S BUILD SOMETHING TOGETHER</h2>
 
 <p>
-I'm always excited to learn new technologies, collaborate on meaningful projects,
-exchange ideas, and connect with people who are passionate about technology.
+<samp>Great ideas grow when curious minds connect.</samp>
 </p>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Guntimadugu-Prasanna">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/u/klu2300033100/">
+<img src="https://img.shields.io/badge/LEETCODE-Level_up-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-<p><i>Every connection is an opportunity to learn something new.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,30:0077B6,65:7B61FF,100:0D1117&height=150&section=footer&text=KEEP%20BUILDING.&fontSize=28&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%" alt="Neon Gradient Footer"/>
 
-</div>
+<h3>⚡ THINK DIFFERENTLY &nbsp; • &nbsp; CODE CREATIVELY &nbsp; • &nbsp; GROW CONSTANTLY ⚡</h3>
 
----
-
-<!-- ================= PREMIUM FOOTER ======================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,35:0077B6,70:7B61FF,100:0D1117&height=160&section=footer&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20INNOVATE%20%E2%80%A2%20GROW&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%" alt="Premium Gradient Footer"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MADE_WITH-CURIOSITY-0D1117?style=flat-square&labelColor=0077B6" alt="Made with Curiosity"/>
-<img src="https://img.shields.io/badge/DRIVEN_BY-INNOVATION-0D1117?style=flat-square&labelColor=7B61FF" alt="Driven by Innovation"/>
-
-<br/><br/>
-
-<sub>✨ Thanks for visiting my profile. Let's build something meaningful! ✨</sub>
+<sub>Thanks for stopping by — see you in the next commit! 💙</sub>
 
 </div>
 
