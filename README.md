@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Java+%7C+Python+Developer;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Data+Analytics+%7C+Problem+Solving;Turning+Ideas+Into+Solutions" alt="Typing Animation"/>
 </a>
 
-<h1>GUNTIMADUGU REDDYPRASANNA</h1>
+<h3>GUNTIMADUGU REDDYPRASANNA</h3>
 
 <p>
 <code>Software Developer</code> •
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<h2>⚡ TECHNOLOGY UNIVERSE</h2>
+<h3>⚡ TECHNOLOGY UNIVERSE</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,spring,mysql,git,github,vscode" alt="Technology Stack"/>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<h2>📊 GITHUB METRICS</h2>
+<h3>📊 GITHUB METRICS</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Guntimadugu-Prasanna&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Guntimadugu-Prasanna?style=for-the-badge&color=00F7FF&labelColor=111111&label=FOLLOWERS" alt="GitHub Followers"/>
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<h2>🔥 CONTRIBUTIONS & STREAK</h2>
+<h3>🔥 CONTRIBUTIONS & STREAK</h3>
 
 <img src="https://streak-stats.demolab.com/?user=Guntimadugu-Prasanna&background=0D1117&border=30363D&stroke=30363D&ring=00F7FF&fire=FF1744&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Contribution Streak"/>
 
