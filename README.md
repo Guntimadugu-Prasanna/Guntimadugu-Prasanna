@@ -55,11 +55,6 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,spring,mysql,git,github,vscode" alt="Technology Stack"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B61FF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-00A67D?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 </div>
 
