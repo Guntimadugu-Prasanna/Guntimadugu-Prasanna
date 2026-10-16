@@ -98,21 +98,19 @@
 
 ---
 
----
-
 <!-- ================= DEVELOPER MINDSET ==================== -->
 
 <div align="center">
 
-<h2>⚡ THE MINDSET BEHIND MY CODE</h2>
+<h2>⚡ DEVELOPER MINDSET</h2>
 
-<p><i>Four values that shape the way I learn, think, and build.</i></p>
+<p><i>The principles that drive my growth as a developer.</i></p>
 
 <br/>
 
-<table align="center">
+<table align="center" width="90%" bgcolor="#0D1117">
 <tr>
-<td align="center" width="160" bgcolor="#0D1B2A">
+<td align="center" width="25%" bgcolor="#0D1B2A">
 
 <br/>
 
@@ -120,17 +118,17 @@
 
 <br/><br/>
 
-💡
+<h1>💡</h1>
 
-<h3>ASK WHY</h3>
+<h3><font color="#00F7FF">ASK WHY</font></h3>
 
-<sub>Stay curious.<br/>Keep exploring.</sub>
+<p><font color="#FFFFFF">Stay curious.<br/>Keep exploring.</font></p>
 
-<br/><br/>
+<br/>
 
 </td>
 
-<td align="center" width="160" bgcolor="#10243A">
+<td align="center" width="25%" bgcolor="#10243A">
 
 <br/>
 
@@ -138,17 +136,17 @@
 
 <br/><br/>
 
-⚙️
+<h1>⚙️</h1>
 
-<h3>THINK CLEARLY</h3>
+<h3><font color="#38BDF8">THINK CLEARLY</font></h3>
 
-<sub>Break problems<br/>into solutions.</sub>
+<p><font color="#FFFFFF">Analyze problems.<br/>Find solutions.</font></p>
 
-<br/><br/>
+<br/>
 
 </td>
 
-<td align="center" width="160" bgcolor="#102B3F">
+<td align="center" width="25%" bgcolor="#102B3F">
 
 <br/>
 
@@ -156,17 +154,17 @@
 
 <br/><br/>
 
-🚀
+<h1>🚀</h1>
 
-<h3>BUILD IDEAS</h3>
+<h3><font color="#00D4FF">BUILD IDEAS</font></h3>
 
-<sub>Think differently.<br/>Create something new.</sub>
+<p><font color="#FFFFFF">Think differently.<br/>Create solutions.</font></p>
 
-<br/><br/>
+<br/>
 
 </td>
 
-<td align="center" width="160" bgcolor="#132D46">
+<td align="center" width="25%" bgcolor="#132D46">
 
 <br/>
 
@@ -174,13 +172,13 @@
 
 <br/><br/>
 
-📈
+<h1>📈</h1>
 
-<h3>KEEP GROWING</h3>
+<h3><font color="#60A5FA">KEEP GROWING</font></h3>
 
-<sub>Learn daily.<br/>Improve continuously.</sub>
+<p><font color="#FFFFFF">Learn every day.<br/>Improve continuously.</font></p>
 
-<br/><br/>
+<br/>
 
 </td>
 </tr>
@@ -188,63 +186,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20THINK%20%7C%20BUILD-0D1117?style=for-the-badge&labelColor=007BFF&color=0D1117" />
+<img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20THINK%20%7C%20BUILD-0D1117?style=for-the-badge&labelColor=007BFF&color=00F7FF" />
 
 </div>
 
 ---
-
-<!-- ================= LET'S CONNECT ======================== -->
-
-<div align="center">
-
-<h2>🤝 LET'S CONNECT</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Great+ideas+begin+with+connections.;Let's+learn%2C+build%2C+and+grow+together." alt="Let's Connect" />
-
-<br/><br/>
-
-<table align="center">
-<tr>
-<td align="center" bgcolor="#0D1B2A">
-
-<br/>
-
-<b>BUILD. CONNECT. GROW.</b>
-
-<br/><br/>
-
-<sub>Open to learning, sharing knowledge, and collaborating on meaningful projects.</sub>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/reddyprasanna-guntimadugu-76986828a/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Guntimadugu-Prasanna">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub Projects"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-0D1117?style=for-the-badge&labelColor=007BFF&color=00F7FF" />
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<b>Still learning. Still building. Just getting started.</b>
-
-<br/>
-
-<sub>Thanks for visiting my profile! ⭐</sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007BFF,100:00F7FF&height=100&section=footer" />
-
